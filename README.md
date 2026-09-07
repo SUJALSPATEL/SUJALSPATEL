@@ -90,7 +90,7 @@ $ ls skills/
 <br>
 
 <samp>
-It's Doesn't matter yarr :)
+It Doesn't matter yarr :)
 </samp>
 </details>
 
