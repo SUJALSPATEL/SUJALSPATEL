@@ -22,9 +22,9 @@ name: Sujal Patel
 location: Bangaluru
 
 roles:
+  - contributor
   - developer
   - dreamer
-  - builder
 
 currently:
   building: scalable systems
@@ -32,8 +32,10 @@ currently:
 
 highlights:
   - java competitive programmer
+  - contributor
   - Built Claribb-ai
-  - Built Sarvam-ai
+  - Built Custom Hybrid Semantic Diff Algorithm 
+  - Built Openbook-LM
   - customized hyprland dotfiles
   - arch btw
   - still dreaming more
